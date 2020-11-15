@@ -4,9 +4,9 @@ namespace Recipes.Data.Models
     using System;
     using System.Collections.Generic;
 
-    using Recipes.Data.Common.Models;
-
     using Microsoft.AspNetCore.Identity;
+
+    using Recipes.Data.Common.Models;
 
     public class ApplicationUser : IdentityUser, IAuditInfo, IDeletableEntity
     {
@@ -17,6 +17,16 @@ namespace Recipes.Data.Models
             this.Claims = new HashSet<IdentityUserClaim<string>>();
             this.Logins = new HashSet<IdentityUserLogin<string>>();
         }
+
+        public string Name { get; set; }
+
+        public string Image { get; set; }
+
+        public string EmailAddress { get; set; }
+
+        public string Passowrd { get; set; }
+
+        public DateTime DateOfBirth { get; set; }
 
         // Audit info
         public DateTime CreatedOn { get; set; }
