@@ -461,3 +461,4 @@ C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web\obj\Debug\net5.0\
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web\obj\Debug\net5.0\ref\Recipes.Web.dll
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web\obj\Debug\net5.0\Recipes.Web.pdb
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web\obj\Debug\net5.0\Recipes.Web.genruntimeconfig.cache
+C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web\obj\Debug\net5.0\Razor\Views\Recipes\All.cshtml.g.cs

@@ -12,6 +12,7 @@
     using Recipes.Services.Mapping;
     using Recipes.Services.Messaging;
     using Recipes.Web.ViewModels;
+    using Recipes.Data.Migrations;
 
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Hosting;
