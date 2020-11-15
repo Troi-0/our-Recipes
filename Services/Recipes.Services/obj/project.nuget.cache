@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aia5CxbFWRhF/dNf6pdG87D8sPPmFmU0e4eRI6jNkF4ez5Uq3AWuK6A3XuStAMZ01o3787aC51PA7D0pU2AJSg==",
+  "success": true,
+  "projectFilePath": "C:\\Important things\\Visual Studio 2019\\Recipes\\Services\\Recipes.Services\\Recipes.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}
