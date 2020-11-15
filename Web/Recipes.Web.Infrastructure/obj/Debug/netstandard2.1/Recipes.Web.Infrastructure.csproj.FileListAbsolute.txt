@@ -1,6 +1,7 @@
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web.Infrastructure\bin\Debug\netstandard2.1\Recipes.Web.Infrastructure.deps.json
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web.Infrastructure\bin\Debug\netstandard2.1\Recipes.Web.Infrastructure.dll
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web.Infrastructure\bin\Debug\netstandard2.1\Recipes.Web.Infrastructure.pdb
+C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web.Infrastructure\obj\Debug\netstandard2.1\Recipes.Web.Infrastructure.csprojAssemblyReference.cache
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web.Infrastructure\obj\Debug\netstandard2.1\Recipes.Web.Infrastructure.AssemblyInfoInputs.cache
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web.Infrastructure\obj\Debug\netstandard2.1\Recipes.Web.Infrastructure.AssemblyInfo.cs
 C:\Important things\Visual Studio 2019\Recipes\Web\Recipes.Web.Infrastructure\obj\Debug\netstandard2.1\Recipes.Web.Infrastructure.csproj.CoreCompileInputs.cache

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 C:\Important things\Visual Studio 2019\Recipes\Data\Recipes.Data.Models\bin\Debug\netstandard2.1\Recipes.Data.Models.deps.json
 C:\Important things\Visual Studio 2019\Recipes\Data\Recipes.Data.Models\bin\Debug\netstandard2.1\Recipes.Data.Models.dll
 C:\Important things\Visual Studio 2019\Recipes\Data\Recipes.Data.Models\bin\Debug\netstandard2.1\Recipes.Data.Models.pdb
@@ -11,17 +10,3 @@ C:\Important things\Visual Studio 2019\Recipes\Data\Recipes.Data.Models\obj\Debu
 C:\Important things\Visual Studio 2019\Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.csproj.CopyComplete
 C:\Important things\Visual Studio 2019\Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.dll
 C:\Important things\Visual Studio 2019\Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.pdb
-=======
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.csprojAssemblyReference.cache
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.AssemblyInfoInputs.cache
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.AssemblyInfo.cs
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.csproj.CoreCompileInputs.cache
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\bin\Debug\netstandard2.1\Recipes.Data.Models.deps.json
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\bin\Debug\netstandard2.1\Recipes.Data.Models.dll
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\bin\Debug\netstandard2.1\Recipes.Data.Models.pdb
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\bin\Debug\netstandard2.1\Recipes.Data.Common.dll
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\bin\Debug\netstandard2.1\Recipes.Data.Common.pdb
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.csproj.CopyComplete
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.dll
-D:\VS 2019\Recipes project\our-Recipes\Data\Recipes.Data.Models\obj\Debug\netstandard2.1\Recipes.Data.Models.pdb
->>>>>>> remotes/recipes/master
